@@ -1,0 +1,723 @@
+.to-doblock-light .icon {
+  width: 18px;
+  height: 12px;
+}
+.to-doblock-light .menu {
+  margin: 7.3px 0 10px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .union {
+  width: 26.6px;
+  height: 26.6px;
+}
+.to-doblock-light .logomark {
+  margin: 0 6.7px 2.7px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.to-doblock-light .do-it {
+  margin-top: 5.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Sen';
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: -1px;
+  line-height: 1;
+  color: #3F9142;
+}
+.to-doblock-light .logo {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-doblock-light .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 138px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.to-doblock-light .icon-1 {
+  width: 18px;
+  height: 18px;
+}
+.to-doblock-light .search {
+  margin: 3px 0 1px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .vector {
+  width: 18px;
+  height: 10px;
+}
+.to-doblock-light .app-grid {
+  margin: 7px 0 5px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .vector-1 {
+  width: 22px;
+  height: 22px;
+}
+.to-doblock-light .rimoon-clear-line {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .header {
+  margin: 1.3px 0 6px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 446.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.to-doblock-light .web-app-nav-bar {
+  background: #FBFDFC;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14.7px 0 12px 3px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-doblock-light .label {
+  margin-right: 6.7px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 1.231;
+  color: rgba(20, 46, 21, 0.62);
+}
+.to-doblock-light .icon-2 {
+  border-radius: 1px;
+  width: 12px;
+  height: 6px;
+}
+.to-doblock-light .caret-down {
+  margin: 5px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .title {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.to-doblock-light .add-atask {
+  margin-bottom: 43px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: rgba(27, 40, 27, 0.72);
+}
+.to-doblock-light .claritynotification-line {
+  width: 24px;
+  height: 24px;
+}
+.to-doblock-light .vector-4 {
+  width: 24px;
+  height: 20.1px;
+}
+.to-doblock-light .birepeat {
+  margin: 1.9px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .vector-5 {
+  width: 18px;
+  height: 19px;
+}
+.to-doblock-light .iconoircalendar {
+  margin: 2px 0 3px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .container-2 {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 121px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.to-doblock-light .label-1 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #357937;
+}
+.to-doblock-light .menu-item {
+  border-radius: 8px;
+  background: rgba(53, 121, 55, 0.16);
+  display: flex;
+  padding: 8px 16.2px 8px 16px;
+  box-sizing: border-box;
+}
+.to-doblock-light .frame-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 627px;
+  box-sizing: border-box;
+}
+.to-doblock-light .text-cell {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  background: linear-gradient(0deg, rgba(53, 121, 55, 0.1), rgba(208, 255, 210, 0.1));
+  display: flex;
+  flex-direction: column;
+  padding: 56.5px 17px 21px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.to-doblock-light .container-3 {
+  border-radius: 2px;
+  border: 2px solid #1E1E1E;
+  width: 18px;
+  height: 18px;
+}
+.to-doblock-light .checkboxes {
+  margin: 1px 15px 1px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.to-doblock-light .buy-groceries {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-doblock-light .frame-4 {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-doblock-light .vector-6 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-doblock-light .phstar {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .text-cell-1 {
+  border: 1.5px solid rgba(73, 110, 75, 0.2);
+  position: relative;
+  display: flex;
+  padding: 61.5px 0 62.3px 232px;
+  width: 320px;
+  height: 147px;
+  box-sizing: border-box;
+}
+.to-doblock-light .container-4 {
+  border-radius: 2px;
+  border: 2px solid #1E1E1E;
+  width: 18px;
+  height: 18px;
+}
+.to-doblock-light .checkboxes-1 {
+  margin: 1px 15px 1px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.to-doblock-light .finish-project-report {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-doblock-light .frame-5 {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-doblock-light .vector-7 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-doblock-light .phstar-1 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .text-cell-2 {
+  border: 1.5px solid rgba(73, 110, 75, 0.2);
+  position: relative;
+  display: flex;
+  padding: 61.5px 0 62.3px 232px;
+  width: 320px;
+  height: 147px;
+  box-sizing: border-box;
+}
+.to-doblock-light .container-5 {
+  border-radius: 2px;
+  border: 2px solid #1E1E1E;
+  width: 18px;
+  height: 18px;
+}
+.to-doblock-light .checkboxes-2 {
+  margin: 1px 15px 1px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.to-doblock-light .call-the-bank {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-doblock-light .frame-6 {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-doblock-light .vector-8 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-doblock-light .phstar-2 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .text-cell-3 {
+  border: 1.5px solid rgba(73, 110, 75, 0.2);
+  position: relative;
+  display: flex;
+  padding: 61.5px 0 62.3px 232px;
+  width: 320px;
+  height: 147px;
+  box-sizing: border-box;
+}
+.to-doblock-light .container-6 {
+  border-radius: 2px;
+  border: 2px solid #1E1E1E;
+  width: 18px;
+  height: 18px;
+}
+.to-doblock-light .checkboxes-3 {
+  margin: 1px 15px 1px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.to-doblock-light .schedule-dentist-appointment {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-doblock-light .frame-7 {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-doblock-light .vector-9 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-doblock-light .phstar-3 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .text-cell-4 {
+  border: 1.5px solid rgba(73, 110, 75, 0.2);
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  padding: 61px 0 61.8px 232px;
+  width: 320px;
+  height: 146px;
+  box-sizing: border-box;
+}
+.to-doblock-light .container-1 {
+  margin: 0 16px 16px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+  width: 1328px;
+  box-sizing: border-box;
+}
+.to-doblock-light .container-7 {
+  border-radius: 2px;
+  border: 2px solid #1E1E1E;
+  width: 18px;
+  height: 18px;
+}
+.to-doblock-light .checkboxes-4 {
+  margin: 1px 15px 1px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.to-doblock-light .plan-weekend-trip {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-doblock-light .frame-8 {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-doblock-light .vector-10 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-doblock-light .phstar-4 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .text-cell-5 {
+  border: 1.5px solid rgba(73, 110, 75, 0.2);
+  position: relative;
+  margin-bottom: 41px;
+  display: flex;
+  align-self: flex-start;
+  padding: 61.5px 0 62.3px 232px;
+  width: 320px;
+  height: 147px;
+  box-sizing: border-box;
+}
+.to-doblock-light .completed {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-doblock-light .icon-3 {
+  width: 12px;
+  height: 9.4px;
+}
+.to-doblock-light .check-small {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .checkboxes-5 {
+  border-radius: 2px;
+  background: #357937;
+  position: relative;
+  margin: 1px 15px 1px 0;
+  width: 48px;
+  height: 48px;
+}
+.to-doblock-light .read-abook {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-doblock-light .frame-10 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-doblock-light .vector-11 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-doblock-light .phstar-5 {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .text-cell-6 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 33.5px 18px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-doblock-light .icon-4 {
+  width: 12px;
+  height: 9.4px;
+}
+.to-doblock-light .check-small-1 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .checkboxes-6 {
+  border-radius: 2px;
+  background: #357937;
+  position: relative;
+  margin: 1px 15px 1px 0;
+  width: 48px;
+  height: 48px;
+}
+.to-doblock-light .clean-the-house {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-doblock-light .frame-11 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-doblock-light .vector-12 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-doblock-light .phstar-6 {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .text-cell-7 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 33.5px 18px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-doblock-light .icon-5 {
+  width: 12px;
+  height: 9.4px;
+}
+.to-doblock-light .check-small-2 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .checkboxes-7 {
+  border-radius: 2px;
+  background: #357937;
+  position: relative;
+  margin: 1px 15px 1px 0;
+  width: 48px;
+  height: 48px;
+}
+.to-doblock-light .prepare-presentation {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-doblock-light .frame-12 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-doblock-light .vector-13 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-doblock-light .phstar-7 {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .text-cell-8 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 33.5px 18px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-doblock-light .icon-6 {
+  width: 12px;
+  height: 9.4px;
+}
+.to-doblock-light .check-small-3 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .checkboxes-8 {
+  border-radius: 2px;
+  background: #357937;
+  position: relative;
+  margin: 1px 15px 1px 0;
+  width: 48px;
+  height: 48px;
+}
+.to-doblock-light .update-blog {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-doblock-light .frame-13 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-doblock-light .vector-14 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-doblock-light .phstar-8 {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-doblock-light .text-cell-9 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 33.5px 18px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-doblock-light .frame-9 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.to-doblock-light .frame-19 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.to-doblock-light .table {
+  background: #FBFDFC;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 0 49px 0;
+  box-sizing: border-box;
+}
+.to-doblock-light .main-content {
+  display: flex;
+  box-sizing: border-box;
+}
+.to-doblock-light {
+  background: #FBFDFC;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 48px 74px 48px;
+  width: 1440px;
+  box-sizing: border-box;
+}

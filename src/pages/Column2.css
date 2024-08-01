@@ -1,0 +1,90 @@
+.column-2 .label {
+  margin-right: 6.8px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 1.231;
+  color: rgba(20, 46, 21, 0.62);
+}
+.column-2 .icon {
+  border-radius: 1px;
+  width: 12px;
+  height: 6px;
+}
+.column-2 .caret-down {
+  margin: 5px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.column-2 .title {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.column-2 .work-on-side-project {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.column-2 .text-cell {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  padding: 14.5px 0.6px 16px 0;
+  box-sizing: border-box;
+}
+.column-2 .learn-react {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.column-2 .text-cell-1 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  padding: 14.5px 0 16px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.column-2 .organize-files {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.column-2 .text-cell-2 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  padding: 14.5px 0 16px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.column-2 .write-article {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.column-2 .text-cell-3 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  padding: 14.5px 0 16px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.column-2 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}

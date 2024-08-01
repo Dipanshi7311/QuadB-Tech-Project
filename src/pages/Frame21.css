@@ -1,0 +1,46 @@
+.frame-21 .vector-1 {
+  width: 22.5px;
+  height: 22.5px;
+}
+.frame-21 .phsun {
+  margin-top: 0.8px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.frame-21 .vector {
+  width: 22px;
+  height: 22px;
+}
+.frame-21 .rimoon-clear-line {
+  margin-bottom: 1.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.frame-21 .container {
+  margin: 0 17.2px 14.8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 72.3px;
+  box-sizing: border-box;
+}
+.frame-21 .to-switch-between-dark-and-light-mode {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Sen';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -0.6px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.frame-21 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}

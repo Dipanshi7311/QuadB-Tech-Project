@@ -1,0 +1,40 @@
+.frame-20 .icon {
+  border-radius: 1px;
+  width: 18px;
+  height: 18px;
+}
+.frame-20 .vector {
+  width: 18px;
+  height: 10px;
+}
+.frame-20 .app-grid {
+  margin: 7px 0 1px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.frame-20 .container {
+  margin: 0 25px 17px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 66px;
+  box-sizing: border-box;
+}
+.frame-20 .to-switch-between-list-or-card-mode {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Sen';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -0.6px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.frame-20 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}

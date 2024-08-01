@@ -1,0 +1,11 @@
+.property-1-default-1 .ageneric-user-avatar-with-asimple-design {
+  border-radius: 999px;
+  background: url('assets/images/AgenericUserAvatarWithAsimpleDesign.jpeg') 50% / cover no-repeat;
+  width: 40px;
+  height: 40px;
+}
+.property-1-default {
+  border-radius: 999px;
+  display: flex;
+  box-sizing: border-box;
+}

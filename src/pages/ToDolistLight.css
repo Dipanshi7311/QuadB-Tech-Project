@@ -1,0 +1,699 @@
+.to-dolist-light .icon {
+  width: 18px;
+  height: 12px;
+}
+.to-dolist-light .menu {
+  margin: 7.3px 0 10px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .union {
+  width: 26.6px;
+  height: 26.6px;
+}
+.to-dolist-light .logomark {
+  margin: 0 6.7px 2.7px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.to-dolist-light .do-it {
+  margin-top: 5.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Sen';
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: -1px;
+  line-height: 1;
+  color: #3D8D40;
+}
+.to-dolist-light .logo {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-dolist-light .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 138px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.to-dolist-light .icon-1 {
+  width: 18px;
+  height: 18px;
+}
+.to-dolist-light .search {
+  margin: 3px 0 1px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .icon-2 {
+  border-radius: 1px;
+  width: 18px;
+  height: 18px;
+}
+.to-dolist-light .app-grid {
+  margin: 3px 0 1px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .vector {
+  width: 22px;
+  height: 22px;
+}
+.to-dolist-light .rimoon-clear-line {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .header {
+  margin: 1.3px 0 6px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 446.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.to-dolist-light .web-app-nav-bar {
+  background: #FBFDFC;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14.7px 0 12px 3px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-dolist-light .label {
+  margin-right: 6.7px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 1.231;
+  color: rgba(20, 46, 21, 0.62);
+}
+.to-dolist-light .icon-3 {
+  border-radius: 1px;
+  width: 12px;
+  height: 6px;
+}
+.to-dolist-light .caret-down {
+  margin: 5px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .title {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.to-dolist-light .add-atask {
+  margin-bottom: 48px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: rgba(27, 40, 27, 0.72);
+}
+.to-dolist-light .claritynotification-line {
+  width: 24px;
+  height: 24px;
+}
+.to-dolist-light .vector-3 {
+  width: 24px;
+  height: 20.1px;
+}
+.to-dolist-light .birepeat {
+  margin: 1.9px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .vector-4 {
+  width: 18px;
+  height: 19px;
+}
+.to-dolist-light .iconoircalendar {
+  margin: 2px 0 3px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .container-2 {
+  margin: 7px 0 5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 121px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.to-dolist-light .label-1 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #2D6930;
+}
+.to-dolist-light .menu-item {
+  border-radius: 8px;
+  background: rgba(53, 121, 55, 0.16);
+  display: flex;
+  padding: 8px 16.2px 8px 16px;
+  box-sizing: border-box;
+}
+.to-dolist-light .frame-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 627px;
+  box-sizing: border-box;
+}
+.to-dolist-light .text-cell {
+  background: linear-gradient(0deg, rgba(53, 121, 55, 0.1), rgba(208, 255, 210, 0.1));
+  display: flex;
+  flex-direction: column;
+  padding: 58px 7px 16px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.to-dolist-light .container-3 {
+  border-radius: 2px;
+  border: 2px solid #1E1E1E;
+  width: 18px;
+  height: 18px;
+}
+.to-dolist-light .checkboxes {
+  margin: 1px 15px 1px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.to-dolist-light .buy-groceries {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-dolist-light .frame-4 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-dolist-light .vector-5 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-dolist-light .phstar {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .text-cell-1 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 28px 33.5px 30px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-dolist-light .container-4 {
+  border-radius: 2px;
+  border: 2px solid #1E1E1E;
+  width: 18px;
+  height: 18px;
+}
+.to-dolist-light .checkboxes-1 {
+  margin: 1px 15px 1px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.to-dolist-light .finish-project-report {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-dolist-light .frame-5 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-dolist-light .vector-6 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-dolist-light .phstar-1 {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .text-cell-2 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 28px 33.5px 30px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-dolist-light .container-5 {
+  border-radius: 2px;
+  border: 2px solid #1E1E1E;
+  width: 18px;
+  height: 18px;
+}
+.to-dolist-light .checkboxes-2 {
+  margin: 1px 15px 1px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.to-dolist-light .call-the-bank {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-dolist-light .frame-6 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-dolist-light .vector-7 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-dolist-light .phstar-2 {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .text-cell-3 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 28px 33.5px 30px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-dolist-light .container-6 {
+  border-radius: 2px;
+  border: 2px solid #1E1E1E;
+  width: 18px;
+  height: 18px;
+}
+.to-dolist-light .checkboxes-3 {
+  margin: 1px 15px 1px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.to-dolist-light .schedule-dentist-appointment {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-dolist-light .frame-7 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-dolist-light .vector-8 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-dolist-light .phstar-3 {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .text-cell-4 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 28px 33.5px 30px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-dolist-light .container-7 {
+  border-radius: 2px;
+  border: 2px solid #1E1E1E;
+  width: 18px;
+  height: 18px;
+}
+.to-dolist-light .checkboxes-4 {
+  margin: 1px 15px 1px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.to-dolist-light .plan-weekend-trip {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-dolist-light .frame-8 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-dolist-light .vector-9 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-dolist-light .phstar-4 {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .text-cell-5 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 28px 33.5px 30px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-dolist-light .completed {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-dolist-light .icon-4 {
+  width: 12px;
+  height: 9.4px;
+}
+.to-dolist-light .check-small {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .checkboxes-5 {
+  border-radius: 2px;
+  background: #357937;
+  position: relative;
+  margin: 1px 15px 1px 0;
+  width: 48px;
+  height: 48px;
+}
+.to-dolist-light .read-abook {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-dolist-light .frame-10 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-dolist-light .vector-10 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-dolist-light .phstar-5 {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .text-cell-6 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 33.5px 18px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-dolist-light .icon-5 {
+  width: 12px;
+  height: 9.4px;
+}
+.to-dolist-light .check-small-1 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .checkboxes-6 {
+  border-radius: 2px;
+  background: #357937;
+  position: relative;
+  margin: 1px 15px 1px 0;
+  width: 48px;
+  height: 48px;
+}
+.to-dolist-light .clean-the-house {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-dolist-light .frame-11 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-dolist-light .vector-11 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-dolist-light .phstar-6 {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .text-cell-7 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 33.5px 18px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-dolist-light .icon-6 {
+  width: 12px;
+  height: 9.4px;
+}
+.to-dolist-light .check-small-2 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .checkboxes-7 {
+  border-radius: 2px;
+  background: #357937;
+  position: relative;
+  margin: 1px 15px 1px 0;
+  width: 48px;
+  height: 48px;
+}
+.to-dolist-light .prepare-presentation {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-dolist-light .frame-12 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-dolist-light .vector-12 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-dolist-light .phstar-7 {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .text-cell-8 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 33.5px 18px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-dolist-light .icon-7 {
+  width: 12px;
+  height: 9.4px;
+}
+.to-dolist-light .check-small-3 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .checkboxes-8 {
+  border-radius: 2px;
+  background: #357937;
+  position: relative;
+  margin: 1px 15px 1px 0;
+  width: 48px;
+  height: 48px;
+}
+.to-dolist-light .update-blog {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 15px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #1B281B;
+}
+.to-dolist-light .frame-13 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.to-dolist-light .vector-13 {
+  width: 21px;
+  height: 20.2px;
+}
+.to-dolist-light .phstar-8 {
+  margin-bottom: 0.3px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.to-dolist-light .text-cell-9 {
+  border-top: 1.5px solid rgba(73, 110, 75, 0.2);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 33.5px 18px 15px;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-dolist-light .frame-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1344px;
+  box-sizing: border-box;
+}
+.to-dolist-light .table {
+  background: #FBFDFC;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 0 49px 0;
+  box-sizing: border-box;
+}
+.to-dolist-light .container-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.to-dolist-light {
+  background: #FBFDFC;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 48px;
+  width: 1440px;
+  box-sizing: border-box;
+}

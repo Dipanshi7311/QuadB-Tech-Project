@@ -1,0 +1,8 @@
+.rimoon-clear-line .vector {
+  width: 22px;
+  height: 22px;
+}
+.rimoon-clear-line {
+  display: flex;
+  box-sizing: border-box;
+}
